@@ -1,0 +1,24 @@
++ a=(1 2.3 Girish "Yandigeri")
++ l=4
++ (( i=0 ))
++ (( i<4 ))
++ echo 1
+1
++ sleep 3s
++ (( i++  ))
++ (( i<4 ))
++ echo 2.3
+2.3
++ sleep 3s
++ (( i++  ))
++ (( i<4 ))
++ echo Girish
+Girish
++ sleep 3s
++ (( i++  ))
++ (( i<4 ))
++ echo Yandigeri
+Yandigeri
++ sleep 3s
++ (( i++  ))
++ (( i<4 ))

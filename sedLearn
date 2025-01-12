@@ -1,0 +1,5 @@
+sed --stream editor
+combines the job of several filters
+derived from ed
+sed performs non interactive operation on stream of data 
+sed -- perl
